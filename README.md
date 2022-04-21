@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Daniel | Kaserola | Kas 👋
 
-<!--
-**Kaserola4/Kaserola4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+graph TD
+    A[Kaserola] -->|Be happy| B(Me)
+    B -->C{I know..}
+    C --> D[Node.js]
+    C --> E[HTML, CSS, JavaScript, React, Vue, Python, SLQ, GIT]
+    C -->|. . .| F[Play games]
+    C --> G[Interested in learning..]
+    G --> H[Deno, Kotlin, any web framework]
+   ```
