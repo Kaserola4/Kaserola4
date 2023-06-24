@@ -4,8 +4,8 @@
 graph TD
     A[Kaserola] -->|Be happy| B(Me)
     B -->C{I know..}
-    C --> D[Node.js]
-    C --> E[HTML, CSS, JavaScript, React, Vue, Python, SLQ, GIT]
+    C --> D[Node.js, express]
+    C --> E[HTML, CSS, JavaScript, React, Vue, Python, C, SQL, GIT]
     C -->|. . .| F[Play games]
     C --> G[Interested in learning..]
     G --> H[Deno, Kotlin, any web framework]
