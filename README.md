@@ -79,7 +79,6 @@ I'm currently learning **Svelte** and expanding my knowledge of modern frontend 
 
 - 📧 kas4developer@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/kaserola4/)
-- 🧑‍💻 [GitHub](https://github.com/Kaserola4)
 - 🌐 [Website🚧](https://kaserola4.github.io)
 
 ---
